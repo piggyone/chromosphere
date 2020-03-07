@@ -1,0 +1,5 @@
+bs4==0.0.1
+fake-useragent==0.1.11
+requests==2.23.0
+torch==1.4.0
+pyunit_log==2020.2.10
